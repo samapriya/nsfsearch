@@ -1,5 +1,5 @@
 # nsfsearch: NSF Awards API Simple CLI
-This is an application of the google home API Blueprint reported [here](https://github.com/rithvikvibhu/GHLocalApi). While a lot of the end points maybe of interest to quite a few people, I used the ones I use most and I thought would be most useful and created a command line tool for you to search for a Google home mini device and then use this tool to interact with it and perform actions as needed.
+This is an application based on the [NSF Awards API](https://www.research.gov/common/webapi/awardapisearch-v1.htm). While the NSF award search tool is great, this is useful to get some quick reports and statistics on NSF awards. It also does act as a quick search and ideally as NSF updates the API this tool will be updated to reflect changes.
 
 ## Table of contents
 * [Installation](#installation)
